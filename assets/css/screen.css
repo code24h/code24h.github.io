@@ -97,7 +97,7 @@ section.recent-posts {
     }
 }
 
-@media (min-width:992px) {
+@media (min-width:692px) {
     .navbar-expand-lg .navbar-nav .nav-link {
         padding-right: 0.8rem;
         padding-left: 0.8rem;
@@ -162,7 +162,7 @@ section.recent-posts {
     max-height: 100%;
 }
 
-@media (max-width:991px) {
+@media (max-width:691px) {
     .featured-box-img-cover {
         height: auto;
         width: 100%;
